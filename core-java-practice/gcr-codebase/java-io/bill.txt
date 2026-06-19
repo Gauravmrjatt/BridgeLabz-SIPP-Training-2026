@@ -1,0 +1,4 @@
+Apple - 50
+Bread - 30
+Milk - 40
+Eggs - 60
